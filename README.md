@@ -12,8 +12,10 @@ activate car-detect
 pip install torch===1.2.0 torchvision===0.4.0 -f https://download.pytorch.org/whl/torch_stable.html
 pip install -r requirements.txt
 ```
-
-
+#### 权重下载
+```
+链接：https://pan.baidu.com/s/1sG9VdVt_HR-mi53UcII3ZA 提取码：n7uc
+```
 
 #### 使用说明
 
